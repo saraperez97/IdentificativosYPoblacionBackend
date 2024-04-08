@@ -1,0 +1,15 @@
+{
+    "name": "saraperezvalencia/identificativos-y-poblacion",
+    "description": "server app",
+    "autoload": {
+        "psr-4": {
+            "Saraperezvalencia\\IdentificativosYPoblacion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cd"
+        }
+    ],
+    "require": {}
+}
